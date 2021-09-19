@@ -8,6 +8,11 @@ Welcome to my profile!
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats-qcfipzxjl-korgron.vercel.app/api?username=Korgron&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Korgron](https://github-readme-stats-qcfipzxjl-korgron.vercel.app/api?username=Korgron&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Korgron)
 
-[![Anurag's GitHub stats](https://github-readme-stats-qcfipzxjl-korgron.vercel.app/api/top-langs/?username=Korgron&theme=dark&langs_count=10&hide=sourcepawn&layout=compact&hide_border=true&card_width=444)](https://github.com/anuraghazra/github-readme-stats)
+[![Korgron](https://github-readme-stats-qcfipzxjl-korgron.vercel.app/api/top-langs/?username=Korgron&theme=github_dark&langs_count=10&hide=sourcepawn&layout=compact&hide_border=true&card_width=444)](https://github.com/Korgron)
+
+---
+
+### GitHub Stats repo
+[here](https://github.com/anuraghazra/github-readme-stats)
