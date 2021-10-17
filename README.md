@@ -2,7 +2,8 @@
 ### Hi there 👋
 Welcome to my profile!
 
-- ⚙️ I am currently working on a framework for FiveM.
+- 👨🏽 I am a Front- & Back-End Developer for Web and FiveM (Mod for GTA V) 
+- ⚙️ I am currently working on SquadBattle.
 - 💬 Mostly i code in Javascript, Typescript or Lua.
 - 📫 if you want to reach me, just mail me via korgron.yt@gmail.com
 
