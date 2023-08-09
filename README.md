@@ -9,9 +9,9 @@ Welcome to my profile!
 
 ---
 
-[![Korgron](https://github-readme-stats-qcfipzxjl-korgron.vercel.app/api?username=Korgron&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Korgron)
+[![Korgron](https://github-readme-stats-qcfipzxjl-korgron.vercel.app/api?username=MajorKorgi&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/MajorKorgi)
 
-[![Korgron](https://github-readme-stats-qcfipzxjl-korgron.vercel.app/api/top-langs/?username=Korgron&theme=github_dark&langs_count=10&hide=sourcepawn&layout=compact&hide_border=true&card_width=444)](https://github.com/Korgron)
+[![Korgron](https://github-readme-stats-qcfipzxjl-korgron.vercel.app/api/top-langs/?username=MajorKorgi&theme=github_dark&langs_count=10&hide=sourcepawn&layout=compact&hide_border=true&card_width=444)](https://github.com/MajorKorgi)
 
 ---
 
