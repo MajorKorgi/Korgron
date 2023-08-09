@@ -1,4 +1,4 @@
-# Korgron | KorgiZockt | Korgi 
+# MajorKorgi
 ### Hi there 👋
 Welcome to my profile!
 
